@@ -79,6 +79,7 @@ It's a business case with names on it.
 
 ## Dashboard Preview(ScreenShots/ Demo)
 https://github.com/Aditi27garg/Employee_Attrition_Analysis/blob/main/assets/01_command_centre.png
+https://github.com/Aditi27garg/Employee_Attrition_Analysis/blob/main/assets/03_exit_drivers.png
 
 
 Built by Aditi Garg  
